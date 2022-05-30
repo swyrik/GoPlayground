@@ -10,5 +10,8 @@ func main() {
 	// arraystest()
 	// slicestest()
 	// mapstest()
-	rangetest()
+	// rangetest()
+	// functest()
+	// variadicFunction()
+	clousres()
 }
