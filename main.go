@@ -7,5 +7,8 @@ func main() {
 	// forloop()
 	// ifelse()
 	// switchcase()
-	arraystest()
+	// arraystest()
+	// slicestest()
+	// mapstest()
+	rangetest()
 }
