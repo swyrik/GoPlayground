@@ -13,5 +13,12 @@ func main() {
 	// rangetest()
 	// functest()
 	// variadicFunction()
-	clousres()
+	// clousres()
+	// pointerstest()
+	// stringsrunestest()
+	// structstest()
+	// methodstest()
+	// interfacestest()
+	structembeddingtest()
+
 }
