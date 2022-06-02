@@ -19,6 +19,12 @@ func main() {
 	// structstest()
 	// methodstest()
 	// interfacestest()
-	structembeddingtest()
+	// structembeddingtest()
+	// genericstest()
+	// errorstest()
+	// goroutinestest()
+	// waitgroupstest()
+	// channelstest()
+	channelBufferingTest()
 
 }
