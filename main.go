@@ -25,6 +25,10 @@ func main() {
 	// goroutinestest()
 	// waitgroupstest()
 	// channelstest()
-	channelBufferingTest()
+	// channelBufferingTest()
+	// channelsynctest()
+	// channelsDirectionTest()
+	// selectChannelTest()
+	channelsTimeOutTest()
 
 }
