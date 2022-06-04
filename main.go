@@ -29,6 +29,13 @@ func main() {
 	// channelsynctest()
 	// channelsDirectionTest()
 	// selectChannelTest()
-	channelsTimeOutTest()
+	// channelsTimeOutTest()
+	// nonBlockingChannelTest()
+	// closingChannelsTest()
+	// rangeOverChannelsTest()
+	// timers()
+	// tickers()
+	// workerpoolstest()
+	rateLimiter()
 
 }
