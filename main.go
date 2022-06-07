@@ -36,6 +36,9 @@ func main() {
 	// timers()
 	// tickers()
 	// workerpoolstest()
-	rateLimiter()
+	// rateLimiter()
+	// atomiccountertest()
+	// mutexttest()
+	sortingtest()
 
 }
