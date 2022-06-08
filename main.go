@@ -39,6 +39,9 @@ func main() {
 	// rateLimiter()
 	// atomiccountertest()
 	// mutexttest()
-	sortingtest()
+	// sortingtest()
+	// panictest()
+	// defertest()
+	recovertest()
 
 }
