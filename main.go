@@ -42,6 +42,8 @@ func main() {
 	// sortingtest()
 	// panictest()
 	// defertest()
-	recovertest()
+	// recovertest()
+	// stringfuncstest()
+	stringfrmttest()
 
 }
