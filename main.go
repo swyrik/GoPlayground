@@ -44,6 +44,8 @@ func main() {
 	// defertest()
 	// recovertest()
 	// stringfuncstest()
-	stringfrmttest()
+	// stringfrmttest()
+	// commandlineargstest()
+	exittest()
 
 }
