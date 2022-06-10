@@ -46,6 +46,7 @@ func main() {
 	// stringfuncstest()
 	// stringfrmttest()
 	// commandlineargstest()
-	exittest()
+	// exittest()
+	texttemplatestest()
 
 }
