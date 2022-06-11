@@ -47,6 +47,12 @@ func main() {
 	// stringfrmttest()
 	// commandlineargstest()
 	// exittest()
-	texttemplatestest()
+	// texttemplatestest()
+	// regexptest()
+	// timetest()
+	// timeformattest()
+	// randomNumsTest()
+	// numberParseTest()
+	urlParseTest()
 
 }
